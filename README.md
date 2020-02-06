@@ -1,21 +1,21 @@
 # NoLoPeAI-Roadmap
 Lộ trình (Roadmap):
 - Phân tích từ trong câu (NLP):
-  - Tách từ (tokenization)
-  - Từ vô nghĩa (stop word)
+  - Tách từ (Tokenization)
+  - Từ vô nghĩa (Stop word)
   - Cấu trúc câu (TAG)
   - Từ loại (POS)
   - Cụm danh từ (NOUN CHUNK)
   - Nhận dạng nghĩa của từ trong câu (NER)
-  - Từ đồng nghĩa (word2vec)
+  - Từ đồng nghĩa (Word2vec)
 - Phân tích câu (NLU):
-  - Nhận dạng ngữ cảnh (intent)
-  - Dịch sang ngôn ngữ khác(translation)
+  - Nhận dạng ngữ cảnh (Intent)
+  - Dịch sang ngôn ngữ khác (Translation)
   - Trả lời câu hỏi (Sqaud)
-  - Triết xuất từ khóa trong văn bản (keyword extraction)
-  - Viết lại đoạn văn bản cùng nghĩa (rewrite sentencese)
-  - Rút gọn văn bản (summary extract)
-  - Rút gọn văn bản viết mới (summary abstract) 
+  - Triết xuất từ khóa trong văn bản (Keyword extraction)
+  - Viết lại đoạn văn bản cùng nghĩa (Rewrite sentencese)
+  - Rút gọn văn bản (Summary extract)
+  - Rút gọn văn bản viết mới (Summary abstract) 
   - Nhận dạng các thông tin của đối tượng (Coreference Resolution)
   - Tự động đặt tên tiêu đề
   - Viết một bài báo đưa các từ khóa cho sẵn
