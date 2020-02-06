@@ -2,7 +2,7 @@
 Lộ trình (Roadmap):
 - Phân tích từ trong câu (NLP):
   - Tách từ (Tokenization)
-  - Từ vô nghĩa (Stop word)
+  - Từ vô nghĩa (Stop Word)
   - Cấu trúc câu (TAG)
   - Từ loại (POS)
   - Cụm danh từ (NOUN CHUNK)
@@ -12,10 +12,10 @@ Lộ trình (Roadmap):
   - Nhận dạng ngữ cảnh (Intent)
   - Dịch sang ngôn ngữ khác (Translation)
   - Trả lời câu hỏi (Sqaud)
-  - Triết xuất từ khóa trong văn bản (Keyword extraction)
-  - Viết lại đoạn văn bản cùng nghĩa (Rewrite sentencese)
-  - Rút gọn văn bản (Summary extract)
-  - Rút gọn văn bản viết mới (Summary abstract) 
+  - Triết xuất từ khóa trong văn bản (Keyword Extraction)
+  - Viết lại đoạn văn bản cùng nghĩa (Rewrite Sentencese)
+  - Rút gọn văn bản (Summary Extract)
+  - Rút gọn văn bản viết mới (Summary Abstract) 
   - Nhận dạng các thông tin của đối tượng (Coreference Resolution)
   - Tự động đặt tên tiêu đề
   - Viết một bài báo đưa các từ khóa cho sẵn
